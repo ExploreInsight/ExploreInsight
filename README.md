@@ -1,4 +1,4 @@
-# Hi, I'm Chirag! 👋
+# Hi, I'm Chirag Chandel! 👋
 
 Welcome to my GitHub profile!
 
