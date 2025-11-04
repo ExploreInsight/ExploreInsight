@@ -2,14 +2,19 @@
 
 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on building my skills in Frontend Development (React, JavaScript, Tailwind CSS, HTML, CSS).
-- 🌱 Exploring Backend Development with Node.js, Express, MongoDB, and practicing C, C++ and Python.
-- 🎯 My goal is to become a Full-Stack Developer and build real-world projects.
-- 🛠️ I love solving problems and learning new tech every day.
-- 🔮 In future, I aim to dive deep into System Design, Scaling Applications, and AI/ML (Artificial Intelligence / Machine Learning) to become a complete Software Engineer.
+I am a **Full-Stack Developer and Tech Enthusiast Who Loves Learning**. Right now, my primary focus is on mastering full-stack development, learning Docker, and diving deep into System Design. I regularly build real-world projects and experiment with technologies to expand my skills across frontend and backend.
 
-## 🌐 Connect with me
+- 🔭 I’m currently working on building my skills in Frontend Development (React, JavaScript, Tailwind CSS, HTML, CSS).
+- 🌱 I’m exploring Backend Development with Node.js, Express, MongoDB, and strengthening my skills in C, C++, and Python.  
+- 🛠️ Problem-solving and learning something new every single day is what drives me.  
+- 🎯 My goal is to become a versatile Full-Stack Developer, comfortable with deploying, scaling, and designing distributed applications.  
+- 🐳 Excited to explore Docker for containerization and DevOps best practices.  
+- 🔮 Looking ahead, I plan to master System Design and aim to dive into AI/ML to become a complete Software Engineer, ready for real-world challenges and large-scale projects.
+
+
+## 🌐 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/chirag-chandel1016/)
+[![GitHub](https://img.shields.io/badge/GitHub-ExploreInsight-blue?logo=github&style=flat-square)](https://github.com/ExploreInsight)
 
 ## 🧰 Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -24,6 +29,7 @@ Welcome to my GitHub profile!
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
 ## 📈 GitHub Stats
 ![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExploreInsight&show_icons=true&theme=radical)
